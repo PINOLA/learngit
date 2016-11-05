@@ -7,3 +7,5 @@ git changes of file
 
 creating a new branch is quick and simple change by a new dev
 
+git is a free solft ware
+
