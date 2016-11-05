@@ -1,3 +1,3 @@
 learn git hahah 
-
-i have change it now
+ i have change it 
+git has a mutable index called stage
