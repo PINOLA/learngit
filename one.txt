@@ -4,4 +4,4 @@ gir 学习提交代码快速提交！！！
 git tracks changes
 git changes of file
 
-creating a new branch is quick
+creating a new branch is quick @simple
